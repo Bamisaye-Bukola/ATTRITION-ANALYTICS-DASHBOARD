@@ -32,7 +32,7 @@
 * How does attrition vary based on vactors such as monthly salary and monthly rate?
 * What are the most common job roles within the organization?
 
-## Results/Findings
+## Result/Findings
 ---
 * E mployees with a bachelor's degree have the highest attrition count,followed by those with a master's degree. This suggests that higher education levels might correlate with higher attrition rate
 * The R&D department has the highest attrition count at 56%,followed by sales at 38% and the HR department at 5%. This highlights department where attrition rates are impacting organizational stability.
