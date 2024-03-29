@@ -47,6 +47,7 @@ Based on the findings from the analysis,several recommendations can be made to a
 * Promote equal opportunities for career advancement and professional development
 * Develop mentorship programs for younger employees to support their career growth.
 * Offer flexible work arrangement and benefits suitable for employees in different age groups.
+  
    By focusing on these recommendation,organization can create a more engaged and stable woekforce,leading to long-term success and growth.
 
 
